@@ -1,2 +1,3 @@
 # simple-react-spa-with-simple-e-commerce
-# simple-react-spa-with-simple-e-commerce-server
+
+This project is completely done. A simple e-commerce site with React.
